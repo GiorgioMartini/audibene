@@ -1,6 +1,7 @@
-Steps to run the app:
+# Audiebene Challenge
 
-1 - npm i 
+### Steps to run the app:
 
+  - npm i 
+  - npm start
 
-2 - npm start 
