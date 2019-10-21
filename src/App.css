@@ -1,0 +1,26 @@
+.post-text {
+  --lh: 1.4rem;
+  line-height: var(--lh);
+}
+
+.user-img {
+  width: 40px;
+  height: 40px;
+}
+
+.fit-cover {
+  object-fit: cover;
+}
+
+.post-img {
+  flex: 1;
+}
+
+.post-text {
+  flex: 4;
+}
+
+.chat-icon {
+  width: 10px;
+  margin-right: 5px;
+}
